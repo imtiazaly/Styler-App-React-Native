@@ -89,7 +89,7 @@ Ensure you have your React Native development environment set up. If not, follow
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Imtiaz-Ali17314/Styler-App-React-Native.git
+   git clone https://github.com/imtiazaly/Styler-App-React-Native.git
    cd Styler-App-React-Native
    ```
 
@@ -120,7 +120,7 @@ Ensure you have your React Native development environment set up. If not, follow
 ## 👤 Author
 
 **Imtiaz Ali**
-* **GitHub**: [@Imtiaz-Ali17314](https://github.com/Imtiaz-Ali17314)
+* **GitHub**: [@imtiazaly](https://github.com/imtiazaly)
 * **LinkedIn**: [Imtiaz Ali](https://www.linkedin.com/in/imtiaz-ali-79476a385/)
 * **Portfolio**: [imtiazali.dev](https://imtiazali.dev/)
 
