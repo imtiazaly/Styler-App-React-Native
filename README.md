@@ -15,7 +15,7 @@ This project covers key practical concepts in React Native including **Flexbox**
 
 | Screenshot 1 | Screenshot 2 |
 | :---: | :---: |
-| ![App Preview 1](./assets/images/sty1.PNG) | ![App Preview 2](./assets/images/sty2.PNG) |
+| ![App Preview 1](./assets/sty1.PNG) | ![App Preview 2](./assets/sty2.PNG) |
 
 ---
 
